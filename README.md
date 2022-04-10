@@ -1,4 +1,4 @@
-## Pruebas
+## Pruebas con Postman
 
 ### [ GET ]
 Get all | paginado automatico (page=0 size=3) en caso de no especificar `page` `size` en la url 
